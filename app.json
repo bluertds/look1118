@@ -1,6 +1,6 @@
 {
-    "name": "IF-XTW",
-    "description": "IF-XTW",
+    "name": "look1118",
+    "description": "look1118",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
@@ -32,6 +32,7 @@
             "value": "https://raw.githubusercontent.com/DaoChen6/IF-XTW/master/etc/StoreFiles"
         }
     },
-    "repository": "",
+    "website":"https://github.com/bluertds/look1118",
+    "repository": "https://github.com/bluertds/look1118",
     "stack": "container"
 }
