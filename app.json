@@ -32,7 +32,5 @@
             "value": "https://raw.githubusercontent.com/bluertds/look1118/master/etc/StoreFiles"
         }
     },
-    "website":"https://github.com/bluertds/look1118",
-    "repository": "https://github.com/bluertds/look1118",
-    "stack": "container"
+   
 }
